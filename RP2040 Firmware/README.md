@@ -1,0 +1,1 @@
+This is the firmware used on the Raspberry Pi Pico controller board. The most recent download as well as other micro controllers (if you'd prefer a different one) can be found at https://gp2040-ce.info/downloads/
