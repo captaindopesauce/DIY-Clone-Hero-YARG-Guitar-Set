@@ -8,6 +8,9 @@ I have modified the body in a few various ways, and updated the controller board
 
 ## TO DO
 -Update the modified assembly instructions
+
 -Add materials list
+
 -Micro Guitar design/build
+
 -Micro controller software tutorial
